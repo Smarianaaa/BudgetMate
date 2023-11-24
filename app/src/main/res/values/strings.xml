@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BudgetMate</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transacciones">Transacciones</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="balance_total">Balance Total:</string>
+</resources>
